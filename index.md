@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+# FFXIV SSTool
 
-You can use the [editor on GitHub](https://github.com/LeonBlade/FFXIVSSTool/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## About
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+SS Tool is designed for self educational purposes to provide users on a method of executing common tasks in the program with simple interface. With no harm done to any environment. Only affecting the user side with no advantages what's so ever. Letting users to simply have more expanding creativity on their screenshots.
 
-### Markdown
+SS Tool should not be used on any service or project that would violate any TOS. The developers of Screenshot Tool are not responsible for any use other then intended nor any damages resulting from any defect, error or failure to perform.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Download
 
-```markdown
-Syntax highlighted code block
+Download the latest version [here](https://github.com/Khyrou/SSTool/releases/latest).  The program can auto-update for you whenever it detects a new version is availabile.
 
-# Header 1
-## Header 2
-### Header 3
+## Discord
 
-- Bulleted
-- List
+Come join us inside a key in the back of a turtle on [Discord](https://discord.gg/hq3DnBa).
 
-1. Numbered
-2. List
+## Twitter
 
-**Bold** and _Italic_ and `Code` text
+Want to follow us on Twitter?  Follow us [@FFXIVSSTool](https://twitter.com/FFXIVSSTool) to get all the latest hot news.
 
-[Link](url) and ![Image](src)
-```
+## Donate
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+We appreciate everyone who uses our tool, whether they donate or not.  If you are interested in suporting us however, you can do so below.
+LeonBlade is the original creator of the tool back in 2017.  After taking some time off to do other things, Johto has maintained the project since then, along with building the community that exists today along with our Discord servers (RIP).
 
-### Jekyll Themes
+There are additional projects in the works such as Paisley Park (a waymark tool), the Tabletopper CE Script as well as the future rewrite of the trainer and more to come all developed by LeonBlade.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LeonBlade/FFXIVSSTool/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Again, we really appreciate your support, donation or not.  Thank you for sticking with us and using our tool!
 
-### Support or Contact
+**LeonBlade's Ko-Fi:** [https://ko-fi.com/LeonBlade](https://ko-fi.com/LeonBlade)
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**Johto's Ko-Fi:** [https://ko-fi.com/Seibanaut](https://ko-fi.com/seibanaut)
+
+**Johto's Patreon:** [https://www.patreon.com/JohtoXIV](https://www.patreon.com/JohtoXIV)
