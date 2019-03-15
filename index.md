@@ -8,7 +8,7 @@ SS Tool should not be used on any service or project that would violate any TOS.
 
 ## Download
 
-Download the latest version [here](https://github.com/Khyrou/SSTool/releases/latest).  The program can auto-update for you whenever it detects a new version is availabile.
+Download the latest version [here](https://github.com/imchillin/SSTool/releases/latest).  The program can auto-update for you whenever it detects a new version is availabile.
 
 ## Discord
 
