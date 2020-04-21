@@ -16,7 +16,7 @@ Come join us, post your screenshots, poses and more [Discord](https://discord.gg
 
 ## Twitter
 
-Want to follow us on Twitter?  Follow us [@FFXIVSSTool](https://twitter.com/FFXIVSSTool) to get all the latest hot news.
+Want to follow us on Twitter?  Follow us [@FFXIVCMTool](https://twitter.com/FFXIVCMTool) to get all the latest hot news.
 
 ## Donate
 
