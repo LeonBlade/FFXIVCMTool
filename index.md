@@ -1,18 +1,18 @@
-# FFXIV SSTool
+# FFXIV CMTool
 
 ## About
 
-SS Tool is designed for self educational purposes to provide users on a method of executing common tasks in the program with simple interface. With no harm done to any environment. Only affecting the user side with no advantages what's so ever. Letting users to simply have more expanding creativity on their screenshots.
+CMTool is designed for self educational purposes to provide users on a method of executing common tasks in the program with simple interface. With no harm done to any environment. Only affecting the user side with no advantages what's so ever. Letting users to simply have more expanding creativity on their screenshots.
 
-SS Tool should not be used on any service or project that would violate any TOS. The developers of Screenshot Tool are not responsible for any use other then intended nor any damages resulting from any defect, error or failure to perform.
+CMTool should not be used on any service or project that would violate any TOS. The developers of the tool are not responsible for any use other then intended nor any damages resulting from any defect, error or failure to perform.
 
 ## Download
 
-Download the latest version [here](https://github.com/imchillin/SSTool/releases/latest).  The program can auto-update for you whenever it detects a new version is availabile.
+Download the latest version [here](https://github.com/imchillin/CMTool/releases/latest).  The program can auto-update for you whenever it detects a new version is availabile.
 
 ## Discord
 
-Come join us inside a key in the back of a turtle on [Discord](https://discord.gg/hq3DnBa).
+Come join us inside a key in the back of a turtle on [Discord](https://discord.gg/EenZwsN).
 
 ## Twitter
 
@@ -29,6 +29,4 @@ Again, we really appreciate your support, donation or not.  Thank you for sticki
 
 **LeonBlade's Ko-Fi:** [https://ko-fi.com/LeonBlade](https://ko-fi.com/LeonBlade)
 
-**Johto's Ko-Fi:** [https://ko-fi.com/Seibanaut](https://ko-fi.com/seibanaut)
-
-**Johto's Patreon:** [https://www.patreon.com/JohtoXIV](https://www.patreon.com/JohtoXIV)
+**LeonBlade's Patreon:** [https://www.patreon.com/LeonBlade](https://www.patreon.com/LeonBlade)
