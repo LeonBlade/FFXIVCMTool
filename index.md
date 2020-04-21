@@ -12,7 +12,7 @@ Download the latest version [here](https://github.com/imchillin/CMTool/releases/
 
 ## Discord
 
-Come join us inside a key in the back of a turtle on [Discord](https://discord.gg/EenZwsN).
+Come join us, post your screenshots, poses and more [Discord](https://discord.gg/EenZwsN).
 
 ## Twitter
 
