@@ -20,10 +20,7 @@ Want to follow us on Twitter?  Follow us [@FFXIVSSTool](https://twitter.com/FFXI
 
 ## Donate
 
-We appreciate everyone who uses our tool, whether they donate or not.  If you are interested in suporting us however, you can do so below.
-LeonBlade is the original creator of the tool back in 2017.  After taking some time off to do other things, Johto has maintained the project since then, along with building the community that exists today along with our Discord servers (RIP).
-
-There are additional projects in the works such as Paisley Park (a waymark tool), the Tabletopper CE Script as well as the future rewrite of the trainer and more to come all developed by LeonBlade.
+We appreciate everyone who uses our tool, whether they donate or not.  If you are interested in suporting us however, you can do so below. There are additional projects in the works such as Paisley Park (a waymark tool), the Tabletopper CE Script as well as the future rewrite of the trainer and more to come.
 
 Again, we really appreciate your support, donation or not.  Thank you for sticking with us and using our tool!
 
